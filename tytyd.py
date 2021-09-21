@@ -13,7 +13,8 @@ b = "\033[1;94m" # biru
 u = "\033[1;95m" # ungu
 o = "\033[1;96m" # biru muda
 
-
+Baner
+Tytyd
 ok = []
 cp = []
 ttl =[]
