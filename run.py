@@ -12,16 +12,7 @@ import subprocess, logging
 ip = requests.get('https://api.ipify.org').text
 kot = requests.get ("http://alvinxd.herokuapp.com/region/?").text
 con = requests.get ("http://alvinxd.herokuapp.com/country/?").text
-# BANNER #
-def banner():
-    print """ __  __ ____  _____
-   /\       |  \/  | __ )|  ___|
-  /  \      | |\/| |  _ \| |_    au:Adit-Wibu.
- / •• \     | |  | | |_) |  _|   github:Adit-X
-/_ _ _ \    |_|  |_|____/|_|                            """
-            ""New tols crack facebook By dit oni chan""
-             ""Utamakan akun tumbal buat login oghey""
-
+ 
 def menu_x():
     os.system('clear')
     try:
